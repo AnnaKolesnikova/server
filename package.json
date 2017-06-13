@@ -1,0 +1,11 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "scripts":{
+
+  }
+"repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnaKolesnikova/server.git"
+  },
+}
